@@ -4,6 +4,6 @@ if total_price >100
   puts "みかんを購入。　所持金余りあり。"
 elsif total_price ==100
   puts "みかん購入。　所持金０円。"
-else 
+else
   puts "みかんを購入することができません。"
 end
